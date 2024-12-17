@@ -40,7 +40,7 @@ metadata:
     - pexa-jg
 spec:
   type: service
-  owner: engineering standards
+  owner: pexa
   lifecycle: experimental
   consumesApis:
     - spotify
